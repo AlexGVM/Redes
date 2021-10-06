@@ -1,0 +1,28 @@
+CAPA 3
+
+Contexto de las redes LAN
+Se establecen a nivel de trama 
+
+Dominio de broadcast es algo que están a la misma red (comparten la misma subred, 
+dirección de puerta de enlace y están en la misma red de área local (LAN)).
+
+Switches partes los dominios de broadcast.
+
+Direccionamiento = direcciones logicas de terminales, configurados manualmente 
+Encapsulamiento = 
+Routing estatico, dinamico (algoritmos)
+Desencapsulamiento = proceso basicos de capa 3  (desarmado de paquetes y armado de tramas)
+ 
+
+PROTOCOLOS DE CAPA DE RED (ROUTED)
+
+IPv4
+IPv6
+
+Antiguos
+IPX 
+AppleTalk
+
+Rounting Protocols
+Apoyo (icmp y el arp)
+
